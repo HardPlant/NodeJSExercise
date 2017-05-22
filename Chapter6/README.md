@@ -24,6 +24,9 @@
     * upgrade
     * clientError
 
+* response 객체
+
+* request 객체
 
 
   
